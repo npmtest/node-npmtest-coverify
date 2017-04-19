@@ -1,4 +1,7 @@
-# test coverage for  [coverify (v1.4.1)](https://github.com/substack/coverify)  [![npm package](https://img.shields.io/npm/v/npmtest-coverify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-coverify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-coverify.svg)](https://travis-ci.org/npmtest/node-npmtest-coverify)
+# npmtest-coverify
+
+#### basic test coverage for  [coverify (v1.4.1)](https://github.com/substack/coverify)  [![npm package](https://img.shields.io/npm/v/npmtest-coverify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-coverify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-coverify.svg)](https://travis-ci.org/npmtest/node-npmtest-coverify)
+
 #### code coverage browserify transform
 
 [![NPM](https://nodei.co/npm/coverify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/coverify)
